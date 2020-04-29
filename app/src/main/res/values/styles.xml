@@ -1,0 +1,73 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/activityBackgroundColor</item>
+    </style>
+
+    <style name="AppTheme.TextView" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/colorTextPrimaryInverse</item>
+        <item name="android:textSize">@dimen/textSizePrimary</item>
+    </style>
+
+    <style name="AppTheme.TextView.Title" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/colorTextPrimaryInverse</item>
+        <item name="android:textSize">@dimen/textSizePrimaryInverse</item>
+        <item name="android:padding">@dimen/activityMarginDense</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="AppTheme.TextView.SubTitle" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/colorTextPrimaryInverse</item>
+        <item name="android:textSize">@dimen/textSizeSecondaryInverse</item>
+        <item name="android:padding">@dimen/activityMarginDense</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="AppTheme.TextView.ListTitle" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/colorTextPrimaryInverse</item>
+        <item name="android:textSize">@dimen/textSizePrimary</item>
+        <item name="android:padding">@dimen/activityMarginDense</item>
+    </style>
+
+    <style name="AppTheme.TextView.ListSubTitle" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/colorTextSecondary</item>
+        <item name="android:textSize">@dimen/textSizeSecondary</item>
+        <item name="android:padding">@dimen/activityMarginDense</item>
+    </style>
+
+    <style name="AppTheme.EditText" parent="Base.Widget.AppCompat.EditText">
+        <item name="android:textColor">@color/colorTextPrimaryInverse</item>
+        <item name="android:textSize">@dimen/textSizePrimary</item>
+        <item name="android:inputType">textPersonName</item>
+        <item name="android:padding">@dimen/activityMarginDense</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textColorHint">@color/colorTextSecondary</item>
+    </style>
+
+    <style name="AppTheme.EditText.MessageBox" parent="Base.Widget.AppCompat.EditText">
+        <item name="android:textColor">@color/colorTextPrimary</item>
+        <item name="android:textSize">@dimen/textSizePrimary</item>
+        <item name="android:inputType">textMultiLine</item>
+        <item name="android:padding">@dimen/activityMarginDense</item>
+        <item name="android:maxLines">5</item>
+        <item name="android:maxLength">512</item>
+        <item name="android:textColorHint">@color/colorTextSecondary</item>
+    </style>
+
+    <style name="AppTheme.Button">
+        <item name="android:textSize">@dimen/textSizePrimary</item>
+        <item name="android:textColor">@color/colorTextPrimaryInverse</item>
+    </style>
+
+    <style name="AppTheme.Button.Red">
+        <item name="android:background">@drawable/button_rounded_rectangle</item>
+        <item name="android:foreground">?attr/selectableItemBackground</item>
+    </style>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activityMargin">16dp</dimen>
+    <dimen name="activityMarginDense">8dp</dimen>
+    <dimen name="textSizePrimary">16sp</dimen>
+    <dimen name="textSizeSecondary">12sp</dimen>
+    <dimen name="textSizeTertiary">8sp</dimen>
+    <dimen name="textSizePrimaryInverse">24sp</dimen>
+    <dimen name="textSizeSecondaryInverse">16sp</dimen>
+    <dimen name="titleMargin">32dp</dimen>
+    <dimen name="toolbarElevation">4dp</dimen>
+    <dimen name="cardElevation">4dp</dimen>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "211743275340",
+    "firebase_url": "https://matrix-chat-2bf6f.firebaseio.com",
+    "project_id": "matrix-chat-2bf6f",
+    "storage_bucket": "matrix-chat-2bf6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211743275340:android:47110074ee9c5217e937e9",
+        "android_client_info": {
+          "package_name": "com.matrix.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211743275340-ef6s41kieccs36kq1a62dujpjcc12pk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.matrix.chat",
+            "certificate_hash": "6304d11d5749ae1170a104ab185f2c16e22dcafc"
+          }
+        },
+        {
+          "client_id": "211743275340-nh94r4oldrh1alkh6lnfbbpg4lrto193.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkSUMaWchHTC_ZDC8wAn7xynb9u8zsOfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211743275340-nh94r4oldrh1alkh6lnfbbpg4lrto193.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

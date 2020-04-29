@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Matrix Chat</string>
+    <string name="welcome_to_app_text">Welcome to\nMatrix Chat</string>
+    <string name="enter_nick_name">Please enter your nick name\nto start chatting</string>
+    <string name="label_nick_name">Nickname</string>
+    <string name="start_chat">Start Chat</string>
+    <string name="type_message_label">Type a message</string>
+    <string name="label_send">Send</string>
+    <string name="error_message_network" tools:ignore="ExtraTranslation">No Internet</string>
+    <string name="error_message_something" tools:ignore="ExtraTranslation">Something went wrong.</string>
+    <string name="label_you" tools:ignore="ExtraTranslation">You</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#272727</color>
+    <color name="colorPrimaryDark">#121212</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black">#121212</color>
+    <color name="white">#FFFFFF</color>
+    <color name="charCoalGrey">#414146</color>
+    <color name="coolGrey">#b4b4be</color>
+    <color name="paleGrey">#f0f0f6</color>
+    <color name="duskBlue">#28328c</color>
+
+
+    <color name="activityBackgroundColor">@color/black</color>
+    <color name="cardViewBackgroundColor">@color/colorPrimary</color>
+    <color name="colorTextPrimary">@color/charCoalGrey</color>
+    <color name="colorTextSecondary">@color/coolGrey</color>
+    <color name="colorTextPrimaryInverse">@color/white</color>
+    <color name="colorDivider">@color/paleGrey</color>
+    <color name="highlightColor">@color/duskBlue</color>
+
+</resources>
